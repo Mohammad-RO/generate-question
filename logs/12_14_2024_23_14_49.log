@@ -1,0 +1,2 @@
+[2024-12-14 23:15:09,827] 1038 httpx - INFO - HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-12-14 23:15:11,620] 1038 httpx - INFO - HTTP Request: POST https://api.avalai.ir/v1/chat/completions "HTTP/1.1 200 OK"
